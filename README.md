@@ -1,6 +1,6 @@
 # Pruebas-HTML-CSS
 Pasos Git Uso Diario
-1. Entrar a la carpeta cd ruta/de/tu/proyecto
+1. Entrar a la carpeta cd .ruta/de/tu/proyecto
    esto es como ejemplo, se pone la ruta de la carpeta para acceder bien a ella con git
    
 (En caso de querer importar un proyecto, repositorio usar git clone ponerUrl )
@@ -27,6 +27,7 @@ OTROS COMANDOS
    git status
 
 4. En caso de querer extraer los cambios del repositorio desde un pc que no cuenta con los cambios nuevos
+    cd .ruta/de/tu/proyecto primero para poder entrar al repositorio, luego
    git pull
 
    
