@@ -9,7 +9,7 @@ Pasos Git Uso Diario
    en caso de querer agregar todo git add . / en caso de querer guardar un cambio de solo un archivo, agregar el nombre del archivo git add app.py (esto es un ejemplo)
 
 3. Para Confirmar los cambios, se utiliza lo siguiente.
-   git commit "mensaje"
+   git commit -m "mensaje"
    
 
 5. Para subir los cambios al repositorio remoto de github
