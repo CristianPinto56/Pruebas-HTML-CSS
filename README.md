@@ -19,6 +19,7 @@ Pasos Git Uso Diario
 
 
 OTROS COMANDOS
+git config --global user.name "Usuario" git config --global user.email "mail" sirven para establecer la cuenta
 
 1. para ver los cambios a nivel local
    git log
